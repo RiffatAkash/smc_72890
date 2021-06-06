@@ -99,9 +99,9 @@ html {
 @keyframes makeUpDown {
   0% {
     opacity: 1;
-    margin-top: 30%;
+    margin-top: 15%;
 }
-100% {
+50%,70% {
     opacity: 1;
     margin-top: 0%;
 }
