@@ -99,7 +99,7 @@ html {
 @keyframes makeUpDown {
   0% {
     opacity: 1;
-    margin-top: 50%;
+    margin-top: 30%;
 }
 100% {
     opacity: 1;
